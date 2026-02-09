@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+spacy
+presidio-analyzer
+presidio-anonymizer
+sentence-transformers
+torch
+rapidfuzz
